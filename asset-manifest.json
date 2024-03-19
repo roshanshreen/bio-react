@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bio-react/static/css/main.e932a871.css",
+    "main.js": "/bio-react/static/js/main.9566d30a.js",
+    "static/media/remixicon.svg?t=1708865856766": "/bio-react/static/media/remixicon.7735fab8dbf8ff78afe9.svg",
+    "static/media/remixicon.eot?t=1708865856766": "/bio-react/static/media/remixicon.8542c1bb279bcd77063a.eot",
+    "static/media/remixicon.ttf?t=1708865856766": "/bio-react/static/media/remixicon.4c942de19d980993f612.ttf",
+    "static/media/remixicon.woff?t=1708865856766": "/bio-react/static/media/remixicon.28ceff39ee3e17dc99db.woff",
+    "static/media/remixicon.woff2?t=1708865856766": "/bio-react/static/media/remixicon.39f4def56d0e8712909a.woff2",
+    "static/media/profile.png": "/bio-react/static/media/profile.28e425df62fd1b7261ea.png",
+    "index.html": "/bio-react/index.html",
+    "main.e932a871.css.map": "/bio-react/static/css/main.e932a871.css.map",
+    "main.9566d30a.js.map": "/bio-react/static/js/main.9566d30a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e932a871.css",
+    "static/js/main.9566d30a.js"
+  ]
+}
