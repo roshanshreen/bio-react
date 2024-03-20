@@ -13,7 +13,7 @@ export default function Hero() {
       </div>
 		<div>
 			<h3 data-aos="fade-up" data-aos-duration="1500" className="text-center text-2xl font-bold">
-				Hey!I AM
+				Hey! I AM
 			</h3>
 			<h2 data-aos="fade-up" data-aos-duration="1500" className="text-center text-smallTextColor text-8xl font-bold">
 			Roshan Shreen
