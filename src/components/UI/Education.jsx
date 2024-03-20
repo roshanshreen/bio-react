@@ -3,12 +3,12 @@ export default function Education() {
       <section id="education" className="py-8 md:py-12">
         <div className="container">
           <div className="text-center">
-            <h2 className="text-smallTextColor font-[800] text-[2.4rem] mb-5">
+            <h2 data-aos="fade-up" data-aos-duration="1500" className="text-smallTextColor font-[800] text-[2.4rem] mb-5">
               Education
             </h2>
           </div>
           <div className="flex flex-col justify-center">
-            <div className="flex flex-col space-y-8">
+            <div data-aos="fade-up" data-aos-duration="1500" className="flex flex-col space-y-8">
               <EducationItem
                 title="Full Stack Java Development"
                 description="I have completed this course in Cranes Varsity. Here I have studied Html, Css, JavaScript, RDBMS, SQL."
