@@ -38,13 +38,14 @@ const Header = () => {
       <div className="container">
         <div className="flex items-center justify-between">
           {/* ================logo============= */}
-          <div className="flex items-center gap-[10px]">
-          <span className="w-[35px] h-[35px] bg-primaryColor text-black text-[18px] font-[500] rounded-full flex items-center justify-center">
+          <div className="navbar-brand">
+          <span className="text-white text-2xl font-[1100]">
               R
             </span>
-            <div className="leading-[20px]">
+            oshan
+            {/* <div className="leading-[20px]">
               <h2 className="text-xl text-smallTextColor font-[700]">Roshan Shreen</h2>
-            </div>
+            </div> */}
           </div>
 
           {/*==============logo end ==============*/}
@@ -52,27 +53,27 @@ const Header = () => {
           <div className="menu"  ref={menuRef} onClick={toggleMenu}>
             <ul className="flex items-center gap-10">
               <li>
-                <a onClick={handleClick} className="text-smalltextColor font-[600]" href="#hero">
+                <a onClick={handleClick} className="text-smalltextColor font-[500]" href="#hero">
                   Hero
                 </a>
               </li>
               <li>
-                <a onClick={handleClick} className="text-smalltextColor font-[600]" href="#about">
+                <a onClick={handleClick} className="text-smalltextColor font-[500]" href="#about">
                   About
                 </a>
               </li>
               <li>
-                <a onClick={handleClick} className="text-smalltextColor font-[600]" href="#company">
+                <a onClick={handleClick} className="text-smalltextColor font-[500]" href="#company">
                   Company
                 </a>
               </li>
               <li>
-                <a onClick={handleClick} className="text-smalltextColor font-[600]" href="#education">
+                <a onClick={handleClick} className="text-smalltextColor font-[500]" href="#education">
                   Education
                 </a>
               </li>
               <li>
-                <a onClick={handleClick} className="text-smalltextColor font-[600]" href="#skills">
+                <a onClick={handleClick} className="text-smalltextColor font-[500]" href="#skills">
                   Skills
                 </a>
               </li>
