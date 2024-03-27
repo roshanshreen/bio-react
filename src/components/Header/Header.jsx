@@ -45,7 +45,7 @@ const Header = () => {
   const toggleMenu = () => menuRef.current.classList.toggle('show_menu');
 
   return (
-    <header ref={headerRef} className={`w-full h-[80px] leading-[80px] flex items-center ${isMobile ? 'bg-black' : 'bg-white'}`}>
+    <header ref={headerRef} className={`w-[380px] h-[80px] leading-[80px] flex items-center ${isMobile ? 'bg-black' : 'bg-white'}`}>
       <div className="container">
         <div className="flex items-center justify-between">
           {/* ================logo============= */}
