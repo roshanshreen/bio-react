@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bio-react/static/css/main.c8ecee4e.css",
+    "main.css": "/bio-react/static/css/main.54bdeb3a.css",
     "main.js": "/bio-react/static/js/main.ecbea193.js",
     "static/media/remixicon.svg?t=1708865856766": "/bio-react/static/media/remixicon.7735fab8dbf8ff78afe9.svg",
     "static/media/remixicon.eot?t=1708865856766": "/bio-react/static/media/remixicon.8542c1bb279bcd77063a.eot",
@@ -9,11 +9,11 @@
     "static/media/remixicon.woff2?t=1708865856766": "/bio-react/static/media/remixicon.39f4def56d0e8712909a.woff2",
     "static/media/profile.png": "/bio-react/static/media/profile.28e425df62fd1b7261ea.png",
     "index.html": "/bio-react/index.html",
-    "main.c8ecee4e.css.map": "/bio-react/static/css/main.c8ecee4e.css.map",
+    "main.54bdeb3a.css.map": "/bio-react/static/css/main.54bdeb3a.css.map",
     "main.ecbea193.js.map": "/bio-react/static/js/main.ecbea193.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8ecee4e.css",
+    "static/css/main.54bdeb3a.css",
     "static/js/main.ecbea193.js"
   ]
 }
