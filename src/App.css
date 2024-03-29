@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: "Urbanist", sans-serif;
+  font-family: "Poppins", Arial, sans-serif;
 }
 
 .container {
@@ -108,7 +108,8 @@ section {
   position: relative;
   z-index: 0;
   line-height: inherit;
-  margin-right: 1rem;
+  margin-right: 3rem;
+  /* margin-left:10rem; */
 }
 .navbar-brand:after {
   position: absolute;
@@ -124,7 +125,7 @@ section {
 }
 .subheading {
   text-transform: uppercase;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 900;
   font: bold;
   color: #3e64ff;

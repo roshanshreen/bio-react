@@ -35,12 +35,12 @@ export default function Hero() {
           <span className="subheading">
             Hey! I AM
           </span>
-          <h2 className="text-center text-smallTextColor text-8xl font-bold">
+          <h2 className="text-center text-black text-8xl fontweight-[800] font-[60px] font-bold line-height-[1.5]">
             Roshan Shreen
           </h2>
         </div>
         <div data-aos="fade-up" data-aos-duration="1500">
-          <h1 className="font-bold text-3xl font-[930]">
+          <h1 className="font-bold text-3xl font-[32px] fontweight-[800]">
             I'm a{" "}
             <ReactTyped
               strings={["Developer","Full Stack Java Developer","React Developer"]}
