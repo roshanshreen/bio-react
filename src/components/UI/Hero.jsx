@@ -25,8 +25,8 @@ export default function Hero() {
     <section
       id="hero"
       className="px-10 w-full flex gap-12 flex-col lg:flex-row 
-                justify-center items-center align-center mt-35 
-                mb-16 lg:mt-10 max-w-5xl mx-auto lg:gap-0 h-[80vh]">
+                justify-center items-center align-center mt-25 
+                mb-10 lg:mt-3 max-w-5xl mx-auto lg:gap-0 h-[80vh]">
       <div className="flex-1 flex flex-col justify-center items-center gap-5">
         <div className="basis-1/3 mt-10 sm:mt-0">
         </div>
@@ -35,12 +35,12 @@ export default function Hero() {
           <span className="subheading">
             Hey! I AM
           </span>
-          <h2 className="text-center text-black text-8xl fontweight-[800] font-[60px] font-bold line-height-[1.5]">
+          <h2 className="text-center text-black text-7xl fontweight-[1000] font-[60px] font-bold line-height-[1.5]">
             Roshan Shreen
           </h2>
         </div>
         <div data-aos="fade-up" data-aos-duration="1500">
-          <h1 className="font-bold text-3xl font-[32px] fontweight-[800]">
+          <h1 className="font-bold text-3xl font-[32px] fontweight-[900]">
             I'm a{" "}
             <ReactTyped
               strings={["Developer","Full Stack Java Developer","React Developer"]}

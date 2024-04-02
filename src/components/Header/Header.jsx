@@ -50,7 +50,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           {/* ================logo============= */}
           <div className="navbar-brand">
-            <span className={`text-2xl font-[20px] text-white`}>
+            <span className={`text-2xl font-[22px] text-white`}>
               R
             </span>
             <span className={`${isMobile?'text-white':''}`}>
